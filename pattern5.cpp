@@ -7,7 +7,7 @@ int main(){
         freopen("output.txt", "w", stdout);
     #endif
     
-    
+    cout<<"hello world";
 
     return 0;
 }
