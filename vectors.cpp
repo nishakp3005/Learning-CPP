@@ -28,5 +28,5 @@ int main(){
     vec1.insert(iter, 0); //number will be added at 0th index
     vec1.insert(iter+1, 5, a); //number will be added at 1st index and after that till 4 indexes
     display(vec1);
-    return 0;
+    return 1;
 }
